@@ -1,0 +1,3 @@
+Hello Hustlers!!!
+This is the source code for internship task provided from motionCut.
+Happy Coding.....
